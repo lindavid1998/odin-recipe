@@ -1,0 +1,12 @@
+/* basic structure: selector, property:value */
+/* selector indicates which HTML elements the style applies to  */
+
+
+p {
+    /* this selects the <p> element */
+    color: purple;
+}
+
+h1 {
+    color: aquamarine;
+}
