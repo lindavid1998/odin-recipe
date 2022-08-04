@@ -1,0 +1,51 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    background-color: yellow;
+}
+
+.normal {
+    font-size: 30px;
+    color: darkmagenta;
+}
+
+.list {
+    font-weight: bold;
+    background-color: cyan;
+}
+
+.list.main {
+    font-weight: 200;
+    background-color: white;
+}
+
+img {
+    height: auto;
+    width: 300px;
+    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#special {
+    font-size: 50px;
+}
+
+ol {
+    background-color: red;
+}
